@@ -39,8 +39,8 @@
 ### 1.4 Array
  TypeScript中数组有两种表示方法：
  ```TypeScript
-    let list: number[] = {1, 2, 3};
-    let list: Array<number> = {1, 2, 3};
+    let list: number[] = [1, 2, 3];
+    let list: Array<number> = [1, 2, 3];
  ```
  对比JavaScript中数组的两种创建方式：
  ```JavaScript
