@@ -23,6 +23,7 @@
    var octal1 = 070; // decimal 56
    var decimal1 = 079; // decimal 79
 ```
+
 ### 1.3 String
   TypeScript与JavaScript一直，在表示String数据时用单引号(')或(")括起来。
   TypeScript中引入了模板字符串(template strings)的概念,
